@@ -64,7 +64,8 @@ h1 {
 
 .btn-ghost:hover,
 .btn-ghost:active {
-    background-color: #0c5547;
+    /* background-color: #0c5547; */
+    background-color: red;
     border: 1px solid #0c5547;
 }
 
